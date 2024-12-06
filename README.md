@@ -1,5 +1,5 @@
 # Dog_vs_Cat_Classification
-This repository contains the scripts and configuration files needed to train a YOLOv8 model to classify images of cats and dogs using a dataset of over 10,000 images.
+This repository contains the scripts and configuration files needed to train a YOLOv8 model to classify images of cats and dogs using a dataset of over 10,000 images....
 
 ## Project Overview
 
